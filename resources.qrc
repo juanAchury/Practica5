@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/font/arcadepi.ttf</file>
+        <file>res/sprite/labyrinth.png</file>
+        <file>res/sprite/things.png</file>
+    </qresource>
+</RCC>
